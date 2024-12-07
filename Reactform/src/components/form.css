@@ -1,0 +1,21 @@
+.form{
+    
+    height: 300px;
+    width: 350px;
+    background-color: whitesmoke;
+    padding-top: 50px;
+    
+}
+label{
+    padding-right: 180px;
+    
+}
+input{
+    height: 20px;
+    width: 250px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+button{
+    margin-top: 15px;
+}
